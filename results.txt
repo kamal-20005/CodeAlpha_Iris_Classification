@@ -1,0 +1,28 @@
+Iris Flower Classification - Model Results
+
+Model Used:
+Logistic Regression
+
+Training Data:
+80%
+
+Testing Data:
+20%
+
+Accuracy:
+96.67%
+
+Correct Predictions:
+29 out of 30
+
+Classification:
+Setosa
+Versicolor
+Virginica
+
+Evaluation Metrics:
+- Accuracy Score
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
